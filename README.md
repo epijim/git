@@ -3,7 +3,7 @@ Using git cheatsheet
 
 ## Wait, where is everything?
 
-See **how this works** below. To see the rendered version of this repo, go to https://pages.github.roche.com/RWDS-sme/IPSOS/. 
+See **how this works** below. To see the rendered version of this repo, go to https://pages.github.roche.com/RWDS-sme/git/. 
 
 ## How this works
 
@@ -15,7 +15,7 @@ Github is using an engine called *jekyll* to process the markdown into `.html`. 
 
 ## Contributing
 
-Wanna update this? From github, either [open an issue](https://github.roche.com/RWDS-sme/IPSOS/issues/new) to ask to make a change... or, get in the code and edit yourself using the steps below.
+Wanna update this? From github, either [open an issue](https://github.roche.com/RWDS-sme/git/issues/new) to ask to make a change... or, get in the code and edit yourself using the steps below.
 
 ### Little changes
 
