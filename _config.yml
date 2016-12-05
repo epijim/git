@@ -14,17 +14,14 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Github - RWDS guide to using git at Roche"
-keywords:    "RWDS, git, github"
-description: "Github - RWDS guide to using git at Roche"
-source_link: "https://github.roche.com/RWDS-sme/git"
+title:       "IPSOS"
+keywords:    "RWDS, IPSOS, github"
+description: "IPSOS"
+source_link: "https://github.roche.com/RWDS-sme/IPSOS"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 
-### Gems
-gems:
-  - jemoji
 
 ### template colors, used site-wide via css ###
 colors:
